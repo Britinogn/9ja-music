@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: lightgrey;
+    padding: 20px;
+    margin: 0;
+}
+
+.header h1{
+    color: green;
+}
+
+.header ul{
+    list-style: none;
+}
+
+.header ul li{
+    color: blue;
+}
+
+.header ul li a{
+    display: flex;
+    align-items: center;
+    border-radius: 2px ;
+    justify-content: right;
+    text-align: center;
+    padding-top: 2px;
+}
+
+.hero{
+    background-color: green;
+    margin: 4px;
+}
+
+.contanier{
+    margin: 23px;
+}
+
+.hero-desc{
+    border: black;
+}
+
+.hero h1{
+    font-size: 50px;
+    color: white;
+    justify-content: center;
+    text-align: center;
+}
+
+.audio{
+    background-color:rgb(206, 248, 244);
+}
+
+.contanier-a{
+    margin: 75px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.footer p b{
+    color: blue;
+}
+
+.br{
+    background-color: red;
+}
+
+.video{
+    background-color:#aedcf3;
+    padding-bottom: 1px;
+}
+
+.video h2{
+    color: crimson;
+    text-decoration: none;
+    text-align: center;
+    background-color: black;
+    width: 100%;
+    font-size: 50px;
+    height: 100px;
+    justify-content: center;
+    display: flex;
+    border-radius: 6px;
+}
+
+.contanier-b{
+
+}
+
+.row-b h3{
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    margin: 15px;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.button{
+    color:black;
+    border-radius: 3px;
+    font: size 67px;;
+}
